@@ -4,3 +4,4 @@ def name
   @name
 end 
 
+def name 
